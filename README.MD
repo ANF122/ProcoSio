@@ -1,4 +1,6 @@
 CPU Simulator
+
+
 Ce simulateur de CPU est un outil éducatif conçu pour aider à comprendre le fonctionnement de base d'un processeur. Il simule un CPU simple avec des registres, de la mémoire, et un ensemble d'instructions de base.
 Table des matières
 
