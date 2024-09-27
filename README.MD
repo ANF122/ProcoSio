@@ -30,7 +30,7 @@ Téléchargez le fichier cpu_simulator.py dans votre répertoire de travail.
 Ouvrez un terminal ou une invite de commande.
 Naviguez jusqu'au répertoire contenant cpu_simulator.py.
 Exécutez la commande :
-Copypython cpu_simulator.py
+--- cpu_simulator.py
 
 
 ## Utilisation de l'interface
